@@ -1,0 +1,19 @@
+{
+  "sources": [
+    {
+      "name": "ticketing",
+      "type": "file",
+      "path": "data/tickets.json"
+    },
+    {
+      "name": "incident",
+      "type": "file",
+      "path": "data/incidents.json"
+    },
+    {
+      "name": "chat",
+      "type": "file",
+      "path": "data/chat_logs.json"
+    }
+  ]
+}
